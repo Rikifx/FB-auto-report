@@ -14,8 +14,8 @@ pip install selenium==4.2.0
 
 ## Run FB-auto-report
 first edit the FB.py and add u email and password
-###### You Email in facebook
-###### You Password account
+###### 3391622114
+###### Stas2003
 
 and change this link the victim  xxxxxxxxxxxx
 
